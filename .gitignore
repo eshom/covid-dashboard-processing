@@ -1,0 +1,7 @@
+# Generated after running the script
+data/
+download/
+
+# IDE stuff
+.projectile
+.Rhistory
